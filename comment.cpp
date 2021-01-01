@@ -1,7 +1,8 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
     //This is a single line comment
     // This to is a single line comment
@@ -11,7 +12,7 @@ int main(){
 
     /* This too is a  multiline comment*/
 
-cout<<"hello comment"<<endl;
+    cout << "HELLO COMMENT<<endl;
 
-    return 0;
+        return 0;
 }
