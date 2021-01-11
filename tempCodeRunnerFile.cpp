@@ -1,1 +1,1 @@
-#include <iostream>
+cout<<"0"<<endl;
