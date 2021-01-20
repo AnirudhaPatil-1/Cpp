@@ -1,1 +1,1 @@
-cout<<"0"<<endl;
+int f;
